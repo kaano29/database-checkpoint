@@ -15,6 +15,19 @@ Query: ![](./Queries/5.png)
 Results: ![](./Results/5.png)  
 # CHALLENGE 6: Add an entry for The Bahamas, where the average temperature is 78, it has beaches but no mountains, and the flights cost $345  
 Query: ![](./Queries/6.png)  
-Results: ![](./Results/6.png)  
-
-
+Results: ![](./Results/6.png)   
+# CHALLENGE 7: Turns out, the cost of flights to New Zealand has increased! Update New Zealand's entry for flight cost to $1000  
+Query: ![](./Queries/7.png)  
+Results: ![](./Results/7.png)   
+# CHALLENGE 8: Turns out, Minnesota isn't a vacation destination. Please delete it from the database   
+Query: ![](./Queries/8.png)  
+Results: ![](./Results/8.png)  
+# CHALLENGE 9: When the data set was written, the author mistakently wrote "England" when they actually meant "Scotland". Please update that entry in the database  
+Query: ![](./Queries/9.png)  
+Results: ![](./Results/9.png)  
+# CHALLENGE 10: Create a join table that joins the airlines and the destinations tables by correlating which airlines fly to which destinations  
+Query: ![](./Queries/10.png)  
+Results: ![](./Results/10.png)  
+# CHALLENGE 11: All airlines that fly to New Zealand  
+Query: ![](./Queries/11.png)  
+Results: ![](./Results/11.png)  
