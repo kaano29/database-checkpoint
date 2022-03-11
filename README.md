@@ -31,3 +31,9 @@ Results: ![](./Results/10.png)
 # CHALLENGE 11: All airlines that fly to New Zealand  
 Query: ![](./Queries/11.png)  
 Results: ![](./Results/11.png)  
+# CHALLENGE 12: All airlines that do NOT fly to Scotland  
+Results: ![](./Results/12.png)  
+Query: ![](./Queries/12.png)  
+# CHALLENGE 13: All of the data for all vacation destinations   
+Results: ![](./Results/13.png)  
+Query: ![](./Queries/13.png)  
