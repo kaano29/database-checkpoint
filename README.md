@@ -1,5 +1,5 @@
-CHALLENGE 1  
-Query: ![](./Queries/1.png)
-Results: ![](/*RELATIVE LINK TO IMAGE IN YOUR REPOSITORY*/)# database-checkpoint
-# database-checkpoint
-# database-checkpoint
+# CHALLENGE 1  
+Query: ![](./Queries/1.png)  
+Results: ![](./Results/1.png)  
+# CHALLENGE 2  
+
